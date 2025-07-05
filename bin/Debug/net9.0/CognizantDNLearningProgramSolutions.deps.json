@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CognizantDNLearningProgramSolutions/1.0.0": {
+        "runtime": {
+          "CognizantDNLearningProgramSolutions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CognizantDNLearningProgramSolutions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

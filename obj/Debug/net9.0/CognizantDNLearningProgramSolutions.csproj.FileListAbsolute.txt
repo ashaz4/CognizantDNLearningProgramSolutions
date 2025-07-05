@@ -1,0 +1,14 @@
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\obj\Debug\net9.0\CognizantDNLearningProgramSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\obj\Debug\net9.0\CognizantDNLearningProgramSolutions.AssemblyInfoInputs.cache
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\obj\Debug\net9.0\CognizantDNLearningProgramSolutions.AssemblyInfo.cs
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\obj\Debug\net9.0\CognizantDNLearningProgramSolutions.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\bin\Debug\net9.0\CognizantDNLearningProgramSolutions.exe
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\bin\Debug\net9.0\CognizantDNLearningProgramSolutions.deps.json
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\bin\Debug\net9.0\CognizantDNLearningProgramSolutions.runtimeconfig.json
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\bin\Debug\net9.0\CognizantDNLearningProgramSolutions.dll
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\bin\Debug\net9.0\CognizantDNLearningProgramSolutions.pdb
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\obj\Debug\net9.0\CognizantDNLearningProgramSolutions.dll
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\obj\Debug\net9.0\refint\CognizantDNLearningProgramSolutions.dll
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\obj\Debug\net9.0\CognizantDNLearningProgramSolutions.pdb
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\obj\Debug\net9.0\CognizantDNLearningProgramSolutions.genruntimeconfig.cache
+C:\Users\KIIT\CognizantDNLearningProgramSolutions\obj\Debug\net9.0\ref\CognizantDNLearningProgramSolutions.dll
